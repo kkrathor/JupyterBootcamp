@@ -3,7 +3,7 @@
 2. Spart Notebook
 3. Hands On
 4. Architecture
-5. Jupyter Kernel Gateway: Use notebook as a REST server
+5. [Jupyter Kernel Gateway: Use notebook as a REST server] (https://towardsdatascience.com/expose-endpoints-using-jupyter-kernel-gateway-e55951b0f5ad)
 6. Kernels for other languages (C++ / Scala etc)
    https://jupyter.org/try
 
