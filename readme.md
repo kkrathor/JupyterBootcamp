@@ -18,6 +18,8 @@
 - For Images:  https://www.youtube.com/watch?v=4GJFNQBB26s
 - If you notice they are not mentioned in this Credits section, kindly bring to my notice.
 
+## Traditional REPL ##
+![Traditional REPL](Images/Traditional_REPL.png)
 
 ## What is a Jupyter Notebook? ##
 ![what_is_jupyter_notebook.png](https://github.com/manojphatak/JupyterBootcamp/blob/master/Images/what_is_jupyter_notebook.png)
