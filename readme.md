@@ -23,18 +23,18 @@
 
 
 ## Jupyter Notebook ##
-![what_is_jupyter_notebook.png](https://bitbucket.org/repo/8zzj9K7/images/372141732-what_is_jupyter_notebook.png)
+![what_is_jupyter_notebook.png](https://github.com/manojphatak/JupyterBootcamp/blob/master/Images/what_is_jupyter_notebook.png)
 
 
 ## Architecture ##
-![architecture.png](https://bitbucket.org/repo/8zzj9K7/images/2557024806-architecture.png)
+![architecture.png](https://github.com/manojphatak/JupyterBootcamp/blob/master/Images/architecture_1.png)
 
-![notebook_components.png](https://bitbucket.org/repo/8zzj9K7/images/1895588171-notebook_components.png)
+![notebook_components.png](https://github.com/manojphatak/JupyterBootcamp/blob/master/Images/architecture_2.png)
 
 ## Jupyter Hub ##
 Source: https://www.youtube.com/watch?v=4GJFNQBB26s
 
-![jupyter_hub.png](https://bitbucket.org/repo/8zzj9K7/images/338774802-jupyter_hub.png)
+![jupyter_hub.png](https://github.com/manojphatak/JupyterBootcamp/blob/master/Images/jupyter_hub.png)
 
 ## Computing Resources ##
 - Windows Machine: pnv6w2800
