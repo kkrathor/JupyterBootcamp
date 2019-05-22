@@ -1,3 +1,7 @@
+## BootCamp : Jupyter Notebook ##
+- Manoj Phatak
+- Tanvi Ranade
+
 ## Agenda ##
 1. Apache log analytics: demo
 2. Spart Notebook
