@@ -14,9 +14,9 @@
 - nbgrader
 
 ## Credits ##
-I have heavily used resources in this presentation from public domain.
-For Images:  https://www.youtube.com/watch?v=4GJFNQBB26s
-If you notice they are not mentioned in this Credits section, kindly bring to my notice.
+- I have heavily used resources in this presentation from public domain.
+- For Images:  https://www.youtube.com/watch?v=4GJFNQBB26s
+- If you notice they are not mentioned in this Credits section, kindly bring to my notice.
 
 
 ## What is a Jupyter Notebook? ##
