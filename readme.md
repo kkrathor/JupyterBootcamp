@@ -57,6 +57,8 @@ https://towardsdatascience.com/expose-endpoints-using-jupyter-kernel-gateway-e55
 ### Kernel Gateway ###
 * [Expose Endpoints using Jupyter Kernel Gateway](https://towardsdatascience.com/expose-endpoints-using-jupyter-kernel-gateway-e55951b0f5ad)
 * [Another tutorial on kernel gateway](https://blog.ouseful.info/2017/09/06/building-a-json-api-using-jupyer-notebooks-in-under-5-minutes/)
+* [Hack for Windows] (https://github.com/hyperopt/hyperopt/issues/332)
+
 
 ### Jupyter Hub ###
 * [Tutorial: Getting Started with Jupyter Hub](https://jupyterhub-tutorial.readthedocs.io/en/latest/)
