@@ -3,7 +3,7 @@
 2. Spart Notebook
 3. Hands On
 4. Architecture
-5. [Jupyter Kernel Gateway: Use notebook as a REST server] (https://towardsdatascience.com/expose-endpoints-using-jupyter-kernel-gateway-e55951b0f5ad)
+5. Jupyter Kernel Gateway: Use notebook as a REST server 
 6. Kernels for other languages (C++ / Scala etc)
    https://jupyter.org/try
 
@@ -35,18 +35,30 @@ Source: https://www.youtube.com/watch?v=4GJFNQBB26s
 ![jupyter_hub.png](https://github.com/manojphatak/JupyterBootcamp/blob/master/Images/jupyter_hub.png)
 
 
-## References ##
-* [IPython Messaging](http://ipython.org/ipython-doc/stable/development/how_ipython_works.html)
-* [Nice Gentle Introduction to Jupyter & its internals](https://blog.nteract.io/nteract-building-on-top-of-jupyter-9cfbccdd4c1d)
+## Implement REST Endpoints ##
+https://towardsdatascience.com/expose-endpoints-using-jupyter-kernel-gateway-e55951b0f5ad
 
+
+## References ##
+
+### Hosted Notebooks ###
 * [Free Notebook Hosting Environments](https://blog.ouseful.info/2019/01/04/more-than-ten-free-hosted-jupyter-notebook-environments-you-can-try-right-now/)
 * [Try Hosted Jupyter Notebook: different kernels](https://jupyter.org/try)
 
+
+### Internals ###
+* [IPython Messaging](http://ipython.org/ipython-doc/stable/development/how_ipython_works.html)
+* [Nice Gentle Introduction to Jupyter & its internals](https://blog.nteract.io/nteract-building-on-top-of-jupyter-9cfbccdd4c1d)
+
+### Kernel Gateway ###
 * [Expose Endpoints using Jupyter Kernel Gateway](https://towardsdatascience.com/expose-endpoints-using-jupyter-kernel-gateway-e55951b0f5ad)
 * [Another tutorial on kernel gateway](https://blog.ouseful.info/2017/09/06/building-a-json-api-using-jupyer-notebooks-in-under-5-minutes/)
 
+### Jupyter Hub ###
 * [Tutorial: Getting Started with Jupyter Hub](https://jupyterhub-tutorial.readthedocs.io/en/latest/)
 * [Installing JupyterHub on AWS](https://the-littlest-jupyterhub.readthedocs.io/en/latest/install/amazon.html)
+
+### Some Interesting Uses ###
 * [nbGrader](https://github.com/jupyter/nbgrader)
 
 
