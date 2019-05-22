@@ -1,43 +1,37 @@
-## TODOs ##
-1. Log Analytic Notebook
-   -- adding dataframes
-   -- world map
-   -- time series
-2. Architecture
-3. Kernel Gateway
-4. Other Kernels
-
-
-
 ## Agenda ##
-1. Apache log file
-2. NLP : Tweeter sentiment analysis (word cloud)
-3. visualizations
-
-4. C++, Scala kernel 
-
-4. Use notebook as a REST server
-5. Kernel in headless way
-
-6. nbgrader
+1. Apache log analytics: demo
+2. Spart Notebook
+3. Hands On
+4. Architecture
+5. Jupyter Kernel Gateway: Use notebook as a REST server
+6. Kernels for other languages (C++ / Scala etc)
+   https://jupyter.org/try
 
 
-## Jupyter Notebook ##
+## TODOs ##
+- Visualization
+- REST Endpoints
+- nbgrader
+
+## Credits ##
+I have heavily used resources in this presentation from public domain.
+For Images:  https://www.youtube.com/watch?v=4GJFNQBB26s
+If you notice they are not mentioned in this Credits section, kindly bring to my notice.
+
+
+## What is a Jupyter Notebook? ##
 ![what_is_jupyter_notebook.png](https://github.com/manojphatak/JupyterBootcamp/blob/master/Images/what_is_jupyter_notebook.png)
 
 
 ## Architecture ##
 ![architecture.png](https://github.com/manojphatak/JupyterBootcamp/blob/master/Images/architecture_1.png)
-
 ![notebook_components.png](https://github.com/manojphatak/JupyterBootcamp/blob/master/Images/architecture_2.png)
+
 
 ## Jupyter Hub ##
 Source: https://www.youtube.com/watch?v=4GJFNQBB26s
-
 ![jupyter_hub.png](https://github.com/manojphatak/JupyterBootcamp/blob/master/Images/jupyter_hub.png)
 
-## Computing Resources ##
-- Windows Machine: pnv6w2800
 
 ## References ##
 * [IPython Messaging](http://ipython.org/ipython-doc/stable/development/how_ipython_works.html)
