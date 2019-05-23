@@ -12,11 +12,6 @@
    https://jupyter.org/try
 
 
-## TODOs ##
-- Visualization
-- REST Endpoints
-- nbgrader
-
 ## Credits ##
 - I have heavily used resources in this presentation from public domain.
 - For Images:  https://www.youtube.com/watch?v=4GJFNQBB26s
